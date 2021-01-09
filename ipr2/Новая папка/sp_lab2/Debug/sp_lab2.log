@@ -1,0 +1,4 @@
+﻿  sp_lab2.cpp
+C:\Users\Alek\source\repos\sp_lab2\sp_lab2\sp_lab2.cpp(90,34): warning C4244: =: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+C:\Users\Alek\source\repos\sp_lab2\sp_lab2\sp_lab2.cpp(189,26): warning C4477: "swprintf_s": в строке форматирования "%lld" требуется аргумент типа "__int64", но вариативный аргумент "1" имеет тип "ULARGE_INTEGER"
+  sp_lab2.vcxproj -> C:\Users\Alek\source\repos\sp_lab2\Debug\sp_lab2.exe
