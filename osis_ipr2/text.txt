@@ -1,0 +1,2 @@
+Hello world. In Python you can use thread parallelization with 'multiprocessing.dummy' library
+
