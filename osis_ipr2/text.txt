@@ -1,2 +1,0 @@
-Hello world. For Python multiprocessing works better, than paralleling threads.
-But you still can use thread parallelization with 'multiprocessing.dummy' library
